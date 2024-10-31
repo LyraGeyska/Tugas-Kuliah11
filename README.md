@@ -22,7 +22,7 @@ Double klik pada button *Upload* yang sudah anda buat, dan masukkan Source Code 
                 while ((baris = br.readLine()) != null) //returns a Boolean value
                 {
 </pre>
-Pada Source Code berikut berikut merupakan nilai Array untuk menangkap data pada tiap baris pada file.csv nantinya, sesuaikan dengan setiap nama kolom dalam tabel database anda.
+Pada Source Code berikut merupakan nilai Array untuk menangkap data pada tiap baris pada file.csv nantinya, sesuaikan dengan setiap nama kolom dalam tabel database anda.
 <pre>
                     String[] dataMhs = baris.split(pemisah);
                     String kodeMK = dataMhs[0];
