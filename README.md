@@ -72,6 +72,9 @@ File ini nantinya yang akan kita upload pada aplikasi kita, file yang di upload 
 Simpan dengan Type CSV (MS DOS)
 ![image](https://github.com/user-attachments/assets/9e0744fa-0b7f-446d-8fd4-2cddc419ef3d)
 
+Anda bisa mencoba menggunakan data berikut :
+https://github.com/LyraGeyska/Tugas-Kuliah11/blob/main/dataMatakuliah.csv
+
 ## Cara Pengaplikasiannya
 ### 1. Jalankan aplikasi anda, kemudian coba button *Upload* yang sudah anda buat sebelumnya. 
 ![image](https://github.com/user-attachments/assets/2eaa28ae-f1fb-4bc5-b591-727e549159a0)
